@@ -15,4 +15,5 @@
   <project path="flyme/release" name="FlymeOS/flyme-release"/>
   <project path="flyme/overlay" name="FlymeOS/flyme-overlay" />
   <project path="devices/base" name="FlymeOS/devices-base" />
+  <project path="devices/base_s3" name="sostk/Flyme-for-Galaxy-SIII" revision="Flyme6" />
 </manifest>
